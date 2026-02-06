@@ -42,7 +42,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/What-s-on-Your-Mind_WebApp.git
+https://github.com/AnuragKhachane/What-s-on-Your-Mind_WebApp-main.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
